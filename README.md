@@ -1,4 +1,4 @@
-# SpinalAbnormalityDetection# Explainable Machine Learning for Reliable Spinal Abnormality Detection
+# Spinal Abnormality Detection: Explainable Machine Learning for Reliable Spinal Abnormality Detection
 
 ## Overview
 
